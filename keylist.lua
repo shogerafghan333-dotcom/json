@@ -8,7 +8,7 @@ return {
     },
     ["D555123"] = {
         type = "DEMO",
-        expiry = "2026-10-01",
+        expiry = "2027-10-01",
         valid = true,
         max_devices = 5,
         SLOT = "2"

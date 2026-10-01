@@ -13,13 +13,6 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["SINGLE_USER"] = {
-        type = "VIP",
-        expiry = "2025-01-01",
-        valid = true,
-        max_devices = 1,
-        SLOT = "3"
-    },
     ["u59843664"] = {
         type = "VIP",
         expiry = "2099-12-31",

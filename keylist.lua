@@ -20,21 +20,7 @@ return {
         max_devices = 1,
         SLOT = "3"
     },
-    ["BLOCKED"] = {
-        type = "BLOCKED",
-        expiry = "2026-12-31",
-        valid = false,
-        max_devices = 1,
-        SLOT = "0"
-    },
     ["u59843664"] = {
-        type = "VIP",
-        expiry = "2099-12-31",
-        valid = true,
-        max_devices = 1,
-        SLOT = "2"
-    },
-    ["H493MWN4MJ4N"] = {
         type = "VIP",
         expiry = "2099-12-31",
         valid = true,

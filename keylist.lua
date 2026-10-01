@@ -26,5 +26,12 @@ return {
         valid = false,
         max_devices = 1,
         SLOT = "0"
-    }
+    },
+    ["yuai"] = {
+        type = "VIP",
+        expiry = "2099-12-31",
+        valid = true,
+        max_devices = 1,
+        SLOT = "0"
+    },
 }

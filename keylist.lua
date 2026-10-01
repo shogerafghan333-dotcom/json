@@ -27,7 +27,7 @@ return {
         max_devices = 1,
         SLOT = "0"
     },
-    ["uaiaiaiakka"] = {
+    ["smskskskma"] = {
         type = "VIP",
         expiry = "2099-12-31",
         valid = true,

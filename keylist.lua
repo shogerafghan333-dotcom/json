@@ -39,6 +39,6 @@ return {
         expiry = "2099-12-31",
         valid = true,
         max_devices = 1,
-        SLOT = "0"
+        SLOT = "2"
     },
 }
